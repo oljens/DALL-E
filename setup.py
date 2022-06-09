@@ -14,3 +14,4 @@ setup(name='DALL-E',
         packages=['dall_e'],
         install_requires=parse_requirements('requirements.txt'),
         zip_safe=True)
+
